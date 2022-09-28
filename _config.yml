@@ -1,6 +1,12 @@
 title: Rashmi N Yadav
 logo: /assets/img/logo.png
-description: I am a student at Upgrad, pursuing EPGP in ML & AI.
-show_downloads: true
-google_analytics:
+
+description:
+<p align="center">
+I am a student at Upgrad, pursuing EPGP in ML & AI.
+<br>
+</p>
+
+
+
 theme: jekyll-theme-minimal
